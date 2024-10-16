@@ -1,0 +1,10 @@
+export const BRACKET_CLOSE = ']';
+export const BRACKET_OPEN = '[';
+export const COLON = ':';
+export const COMMA = ',';
+export const CURLY_CLOSE= '}'
+export const CURLY_OPEN = '{';
+export const FALSE = 'false';
+export const NULL = 'null';
+export const QUOTE = '"';
+export const TRUE = 'true';
